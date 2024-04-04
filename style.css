@@ -2,11 +2,9 @@ body {
     --verde: #46902B;
     --amarelo: #FDDA40;
     --verde-escuro: #01271F;
-    font-family: 'Times New Roman', Times, serif;
-    
+        
   }
-
-
+  
 .banners{
     width: 100%;
     height: 100vh;
@@ -17,10 +15,15 @@ body {
 }
 
 .banners-titulo{
-   background-color: var(--verde);
+    background-color: var(--verde-escuro);
+    
+    
+  
   }
   
   .foto-1{
-    background-image: url(./imagem1.png);
+    background-image: url(./imagem-tablet.png);
     
   }
+
+  
